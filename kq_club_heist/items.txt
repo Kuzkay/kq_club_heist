@@ -1,0 +1,15 @@
+-- Make sure to add all these items to your framework; or replace them in the config with items which already exist on your server!
+
+-- Included with kq_security by default
+kq_hacker_usb
+
+-- Nightclub heist required items
+kq_club_card
+kq_club_keys
+
+-- Loot items
+expensive_crystals
+xtc
+coke
+weed
+black_money
